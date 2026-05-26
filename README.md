@@ -19,7 +19,16 @@ The data contains 5 distinct student records in 2D matrix:
 ##  Installation & Usage
 Clone the project and install requirements via terminal:
 ```bash
-git clone https://github.com
+# 1. Clone the project from GitHub
+git clone https://github.com/sbhatt21rediff-ux/numpy-student-analysis.git
+
+# 2. Move into the project directory
+cd numpy-student-analysis
+
+# 3. Install required libraries
 pip install -r requirements.txt
+
+# 4. Launch Jupyter Notebook
 jupyter notebook
+
 ```
